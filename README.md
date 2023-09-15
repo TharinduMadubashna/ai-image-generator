@@ -1,1 +1,1 @@
-# ai-image-generator
+you need get your own "const apiKey" 
